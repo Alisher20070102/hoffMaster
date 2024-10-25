@@ -33,9 +33,18 @@ class _SplashScreenState extends State<SplashScreen> {
         height: double.infinity,
         width: double.infinity,
         alignment: Alignment.center,
-        child: Text(
-          "Hoff",
-          style: TextStyle(color: Colors.white),
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            Text(
+              "Hoff",
+              style: TextStyle(color: Colors.white,),
+            ),
+            Text(
+              "premium sanitary wares",
+              style: TextStyle(color: Colors.white),
+            ),
+          ],
         ),
       ),
     );
