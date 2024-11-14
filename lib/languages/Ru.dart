@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-
+//kjdsbjfgbvdhgdsdsgfhdgsfhdgsgfdshjgfhj
 
 import '../Registration_srceen/UserInfo.dart';
 import '../royhatdan otish/codeKelishi.dart'; // Import qilingan joy
